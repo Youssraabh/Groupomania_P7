@@ -48,7 +48,7 @@ Toujours dans le terminal du dossier `backend`
       Puis revenez au terminal du dossier `Backend` pour créer les tables avec la commande: `npx sequelidb:migrate`(cette commande permet de Créer au niveau de la base de données des tables appelées Users Posts et Comments avec toutes les colonnes comme spécifié dans les fichiers de migration.);
 
 - Créer un fichier à la racine du dossier `Backend` avec la commande : touch .env 
-        Dans le fichier .env : mettre le secret_token, les données utiles à la connexion à votre base SQL   
+    - Dans le fichier .env : mettre le secret_token, les données utiles à la connexion à votre base SQL   
 
 
 
